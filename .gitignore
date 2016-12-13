@@ -1,0 +1,7 @@
+efit
+eparam
+*.o
+*.exe
+*~
+*.dSYM
+*.swp
